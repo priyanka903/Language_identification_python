@@ -11,6 +11,3 @@ This project is born out of a personal understanding of the obstacles faced by j
 I am currently in the process of refining this tool and eagerly anticipate sharing it with the wider community for feedback and collaboration. The ultimate goal is to evolve this solution into a comprehensive resource that aids job seekers in crafting resumes that truly resonate with potential employers, bridging the gap between talent and opportunity in the tech sector.
 
 Stay tuned for further updates, including a launch date and additional features we plan to introduce. Your insights and suggestions are invaluable to us as we strive to make this tool as effective and user-friendly as possible. Together, let's empower job seekers to present their best selves to potential employers.
-
-Warm regards,
-Priyanka Anumandla
